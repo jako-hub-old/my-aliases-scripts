@@ -1,0 +1,5 @@
+alias 'hello-world'="sh ~/scripts/example_bash.sh"
+alias 'open-emu'="sh ~/scripts/open_android_emulator.sh"
+alias 'start-jako'="sh ~/scripts/start_jako.sh"
+alias 'update-jako'="sh ~/scripts/update_jako.sh"
+alias 'start-jako-npm'="sh ~/scripts/start_jako.sh -n"

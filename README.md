@@ -2,6 +2,13 @@ Commands to simplify my daily
 
 Instructions: 
 Clone the repository in your `home`
+```
+cd ~
+mkdir scripts
+cd scripts 
+git clone git@github.com:jako-hub/my-aliases-scripts.git .
+cd ..
+```
 
 Edit the .bashrc
 ```

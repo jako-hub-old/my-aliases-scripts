@@ -18,4 +18,7 @@ Insert this line
 ```
 source ~/scripts/.register_scripts
 ```
-
+Save the file and run
+```
+source .bashrc
+```
